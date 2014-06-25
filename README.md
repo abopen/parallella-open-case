@@ -4,7 +4,16 @@
 
 The [PARC-01 kit](http://abopen.com/PARC-01) is a simple but elegant case based on the "[sick of beige](http://dangerousprototypes.com/docs/Sick_of_Beige_basic_case_v1)" design, with low profile heatsinks and a DC fan to keep the [Parallella](http://www.parallella.org/) board cool. It can be bought from the [AB Open Shop](http://shop.abopen.com).
 
-The top and bottom panels are laser cut from 3mm clear acrylic. 
+## Repository contents
+
+The case design is provided in the following formats:
+
+* Adobe Illustrator (source)
+* SVG
+* PDF
+* DXF
+
+The top and bottom panels are laser cut from 3mm clear acrylic.
 
 ## Bill of materials
 
