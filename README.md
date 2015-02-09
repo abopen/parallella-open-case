@@ -87,8 +87,8 @@ If the jumper is not already fitted, first locate J15.
 
 | Version | Date     | Summary                              |
 |---------|----------|--------------------------------------|
+| 1.1     | ?        | Larger Zynq heatsink, and fan with 4 mounting holes and pre-terminated leads. |
 | 1.0     | 25/06/14 | Initial version.                     |
-| 1.1     | ?        | Larger Zynq heatsink, and fan with 4 mounting holes and pre-terminated leads |
 
 _Note that v1.1 kits started shipping at some point mid-late Summer 2014._
 
