@@ -2,7 +2,7 @@
 
 ![A Parallella board fitted in a PARC-01 case](/images/Completed.jpg)
 
-The [PARC-01 kit](http://abopen.com/PARC-01) is a simple but elegant case based on the "[sick of beige](http://dangerousprototypes.com/docs/Sick_of_Beige_basic_case_v1)" design, with low profile heatsinks and a DC fan to keep the [Parallella](http://www.parallella.org/) board cool. It can be bought from [Ground Electronics](http://groundelectronics.com).
+The [PARC-01 kit](http://abopen.com/PARC-01) is a simple but elegant case based on the "[sick of beige](http://dangerousprototypes.com/docs/Sick_of_Beige_basic_case_v1)" design and includes a DC fan to keep the [Parallella](http://www.parallella.org/) board cool (heatsink required also). It can be bought from [Ground Electronics](http://groundelectronics.com).
 
 ## Repository contents
 
