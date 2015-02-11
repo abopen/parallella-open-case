@@ -22,8 +22,6 @@ In addition to the acrylic parts the PARC-01 kit contains:
 | Qty | Item                                |
 | --- | ----------------------------------- |
 |  1  | 25x25x8mm 5VDC fan                  |
-|  1  | 15x15x8mm heatsink                  |
-|  1  | 20x20x6mm heatsink                  |
 |  8  | M3 16mm nylon screw                 |
 |  4  | M3 12mm nylon screw                 |
 |  4  | M3 nylon nut                        |
@@ -71,7 +69,7 @@ If the jumper is not already fitted, first locate J15.
 
    ![Base with Parallella](/images/BaseParallella.jpg)
 
-9. Fit the heatsinks to the Epiphany and Zynq chips. Note that two 15x15mm heatsinks are pictured above, but with v1.1 kits that are supplied with one 15x15mm blue and one 25x25mm silver heatsink, the smaller should be fitted to the Epiphany and the larger to the Zynq.
+9. Ensure that a suitable heatink(s) is fitted, such as the "slab" heatsink that has been supplied with boards ordered since 10th July 2014, or two smaller heatsinks as shown above. Please note that heatinks are no longer supplied with this kit as of v1.2.
 
 10. Connect the fan +ve solder tag (red wire) to the mounting hole pad next to the barrel jack power connector.
 
@@ -87,10 +85,9 @@ If the jumper is not already fitted, first locate J15.
 
 | Version | Date     | Summary                              |
 |---------|----------|--------------------------------------|
-| 1.1     | ?        | Larger Zynq heatsink, and fan with 4 mounting holes and pre-terminated leads. |
+| 1.2     | 11/02/15 | Heatsinks are no longer included.    |
+| 1.1     | Summer 14| Larger Zynq heatsink, and fan with 4 mounting holes and pre-terminated leads. |
 | 1.0     | 25/06/14 | Initial version.                     |
-
-_Note that v1.1 kits started shipping at some point mid-late Summer 2014._
 
 ## Licence
 
